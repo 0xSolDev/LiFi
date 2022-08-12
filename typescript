@@ -1,0 +1,390 @@
+Script started on Fri Dec 17 00:20:47 2021
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;31m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;31m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;31m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hscriptclear yarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+[2K[1G✨  Done in 16.86s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hcclear[?1l>[?2004l
+]2;clear]1;clear[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hclear[?1l>[?2004l
+]2;clear]1;clear[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hclearyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+Success
+[2K[1G✨  Done in 15.96s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+Success
+[2K[1G✨  Done in 15.43s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+Success
+[2K[1G✨  Done in 18.63s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+Success
+[2K[1G✨  Done in 16.54s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+Success
+[2K[1G✨  Done in 18.23s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[96Dclear                                                                                           [91D[?1l>[?2004l
+]2;clear]1;clear[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hclearyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+Success
+[2K[1G✨  Done in 15.96s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+Success
+[2K[1G✨  Done in 17.52s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyyarn[?1l>[?2004l
+]2;yarn]1;yarn[2K[1G[1myarn install v1.22.15[22m
+[2K[1G[2m[1/5][22m 🔍  Validating package.json...
+[2K[1G[2m[2/5][22m 🔍  Resolving packages...
+[1G⠁ [0K[2K[1G[2K[1G[32msuccess[39m Already up-to-date.
+[2K[1G[2m$ patch-package[22m
+[1mpatch-package[22m 6.4.7
+Applying patches...
+[94mNo patch files found[39m
+[2K[1G[2m$ node ./.setup.js && hardhat typechain[22m
+Compiling 32 files with 0.8.7
+[33mWarning: Unused function parameter. Remove or comment out the variable name to silence this warning.[39m
+[33m  --> src/Facets/CBridgeFacet.sol:43:69:[39m
+[33m   |[39m
+[33m43 |     function startBridgeTokensViaCBridge(LiFiData memory _lifiData, CBridgeData calldata _cBridgeData) public payable {[39m
+[33m   |                                                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[39m
+[33m[39m
+[33m[39m
+Generating typings for: 32 artifacts in dir: typechain for target: ethers-v5
+Successfully generated 77 typings!
+Compilation finished successfully
+[2K[1G✨  Done in 38.20s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+Success
+[2K[1G✨  Done in 16.97s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyyarn --deploy[?1l>[?2004l
+]2;yarn --deploy]1;yarn[2K[1G[1myarn install v1.22.15[22m
+[2K[1G[2m[1/5][22m 🔍  Validating package.json...
+[2K[1G[2m[2/5][22m 🔍  Resolving packages...
+[1G⠁ [0K[2K[1G[2K[1G[32msuccess[39m Already up-to-date.
+[2K[1G[2m$ patch-package[22m
+[1mpatch-package[22m 6.4.7
+Applying patches...
+[94mNo patch files found[39m
+[2K[1G[2m$ node ./.setup.js && hardhat typechain[22m
+Compiling 32 files with 0.8.7
+Generating typings for: 32 artifacts in dir: typechain for target: ethers-v5
+Successfully generated 77 typings!
+Compilation finished successfully
+[2K[1G✨  Done in 21.14s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyyarn  y  nnpx hardhat verify --neto ow  work polygon [7m0xa74d44ed9c3bb96d7676e7a274c33a05210cf35a[27m[42D[27m0[27mx[27ma[27m7[27m4[27md[27m4[27m4[27me[27md[27m9[27mc[27m3[27mb[27mb[27m9[27m6[27md[27m7[27m6[27m7[27m6[27me[27m7[27ma[27m2[27m7[27m4[27mc[27m3[27m3[27ma[27m0[27m5[27m2[27m1[27m0[27mc[27mf[27m3[27m5[27ma[?1l>[?2004l
+]2;npx hardhat verify --network polygon ]1;npxNothing to compile
+No need to generate any newer typings.
+[31mError in plugin @nomiclabs/hardhat-etherscan: The address provided as argument contains a contract, but its bytecode doesn't match any of your local contracts.[39m
+[31m[39m
+[31mPossible causes are:[39m
+[31m  - Contract code changed after the deployment was executed. This includes code for seemingly unrelated contracts.[39m
+[31m  - A solidity file was added, moved, deleted or renamed after the deployment was executed. This includes files for seemingly unrelated contracts.[39m
+[31m  - Solidity compiler settings were modified after the deployment was executed (like the optimizer, target EVM, etc.).[39m
+[31m  - The given address is wrong.[39m
+[31m  - The selected network (polygon) is wrong.[39m
+
+For more info run Hardhat with --show-stack-traces
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;31m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hnpx hardhat verify --network polygon 0xa74d44ed9c3bb96d7676e7a274c33a05210cf35a[?1l>[?2004l
+]2;npx hardhat verify --network polygon ]1;npx^C
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;31m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;31m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hnpx hardhat verify --network polygon 0xa74d44ed9c3bb96d7676e7a274c33a05210cf35a[79Dopen .                                                                         [73Dnpx hardhat verify --network polygon 0xa74d44ed9c3bb96d7676e7a274c33a05210cf35a[79Dyarn --deploy                                                                  [66D[8Dexecute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[91D                                                                                           [92D execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+Success
+[2K[1G✨  Done in 16.75s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hggit add .[?1l>[?2004l
+]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hggt g git commit -m ""u"p"d"a"t"e"d" "s"c"r"i"p"t" "f"o"r" "u"s"d"c" "t"r"a"" " " b"r"i"d"g"e"[?1l>[?2004l
+]2;git commit -m "updated script for usdc bridge"]1;git[LF-77-cbridge-v2 164ef96] updated script for usdc bridge
+ 3 files changed, 140 insertions(+), 15 deletions(-)
+ create mode 100644 typescript
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m)[00m [K[?1h=[?2004hggit push[?1l>[?2004l
+]2;git push]1;gitEnumerating objects: 12, done.
+Counting objects:   8% (1/12)Counting objects:  16% (2/12)Counting objects:  25% (3/12)Counting objects:  33% (4/12)Counting objects:  41% (5/12)Counting objects:  50% (6/12)Counting objects:  58% (7/12)Counting objects:  66% (8/12)Counting objects:  75% (9/12)Counting objects:  83% (10/12)Counting objects:  91% (11/12)Counting objects: 100% (12/12)Counting objects: 100% (12/12), done.
+Delta compression using up to 8 threads
+Compressing objects:  14% (1/7)Compressing objects:  28% (2/7)Compressing objects:  42% (3/7)Compressing objects:  57% (4/7)Compressing objects:  71% (5/7)Compressing objects:  85% (6/7)Compressing objects: 100% (7/7)Compressing objects: 100% (7/7), done.
+Writing objects:  14% (1/7)Writing objects:  28% (2/7)Writing objects:  42% (3/7)Writing objects:  57% (4/7)Writing objects:  71% (5/7)Writing objects:  85% (6/7)Writing objects: 100% (7/7)Writing objects: 100% (7/7), 2.48 KiB | 2.48 MiB/s, done.
+Total 7 (delta 5), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/5)[Kremote: Resolving deltas:  20% (1/5)[Kremote: Resolving deltas:  40% (2/5)[Kremote: Resolving deltas:  60% (3/5)[Kremote: Resolving deltas:  80% (4/5)[Kremote: Resolving deltas: 100% (5/5)[Kremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[K
+To https://github.com/lifinance/lifi-contracts.git
+   71fe50b..164ef96  LF-77-cbridge-v2 -> LF-77-cbridge-v2
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m)[00m [K[?1h=[?2004hgit push[?1l>[?2004l
+]2;git push]1;git^C
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;31m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hgit pushcommit -m "updated script for usdc bridge"[42Dadd .                                     [37D[9Dyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+Success
+[2K[1G✨  Done in 9.09s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[12D[8D[10D[10D[8D[9D[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+Success
+[2K[1G✨  Done in 13.77s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[96Dgit push                                                                                        [88D[?1l>[?2004l
+]2;git push]1;git^C
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;31m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hgit push[8Dyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[96Dgit push                                                                                        [88D[8Dyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+Success
+[2K[1G✨  Done in 16.05s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+Success
+[2K[1G✨  Done in 13.74s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+Success
+[2K[1G✨  Done in 15.83s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[96Dgit push                                                                                        [88D[8Dyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+^C[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+Success
+[2K[1G✨  Done in 19.46s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+Success
+[2K[1G✨  Done in 19.80s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+{
+  receiver: [32m'0x552008c0f6870c2f77e5cC1d2eb9bdff03e30Ea0'[39m,
+  token: [32m'0x2791bca1f2de4661ed88a30c99a7a9449aa84174'[39m,
+  amount: [32m'20000002'[39m,
+  dstChainId: [33m56[39m,
+  nonce: [33m1639731150[39m,
+  maxSlippage: [33m5000[39m
+}
+Success
+[2K[1G✨  Done in 15.64s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+{
+  receiver: [32m'0x552008c0f6870c2f77e5cC1d2eb9bdff03e30Ea0'[39m,
+  token: [32m'0x2791bca1f2de4661ed88a30c99a7a9449aa84174'[39m,
+  amount: [32m'20000002'[39m,
+  dstChainId: [33m56[39m,
+  nonce: [33m1639731910[39m,
+  maxSlippage: [33m15000[39m
+}
+Success
+[2K[1G✨  Done in 13.90s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+{
+  receiver: [32m'0x552008c0f6870c2f77e5cC1d2eb9bdff03e30Ea0'[39m,
+  token: [32m'0x2791bca1f2de4661ed88a30c99a7a9449aa84174'[39m,
+  amount: [32m'20000002'[39m,
+  dstChainId: [33m56[39m,
+  nonce: [33m1639731994[39m,
+  maxSlippage: [33m15000[39m
+}
+Success
+[2K[1G✨  Done in 15.06s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+{
+  receiver: [32m'0x552008c0f6870c2f77e5cC1d2eb9bdff03e30Ea0'[39m,
+  token: [32m'0x2791bca1f2de4661ed88a30c99a7a9449aa84174'[39m,
+  amount: [32m'20000002'[39m,
+  dstChainId: [33m56[39m,
+  nonce: [33m1639732362[39m,
+  maxSlippage: [33m15000[39m
+}
+Success
+[2K[1G✨  Done in 16.41s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+{
+  receiver: [32m'0x552008c0f6870c2f77e5cC1d2eb9bdff03e30Ea0'[39m,
+  token: [32m'0x2791bca1f2de4661ed88a30c99a7a9449aa84174'[39m,
+  amount: [32m'20000002'[39m,
+  dstChainId: [33m56[39m,
+  nonce: [33m1639732524[39m,
+  maxSlippage: [33m15000[39m
+}
+Success
+[2K[1G✨  Done in 17.23s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+{
+  receiver: [32m'0x552008c0f6870c2f77e5cC1d2eb9bdff03e30Ea0'[39m,
+  token: [32m'0x2791bca1f2de4661ed88a30c99a7a9449aa84174'[39m,
+  amount: [32m'21000002'[39m,
+  dstChainId: [33m56[39m,
+  nonce: [33m1639736234[39m,
+  maxSlippage: [33m35000[39m
+}
+Success
+[2K[1G✨  Done in 19.08s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Na{
+  receiver: [32m'0x552008c0f6870c2f77e5cC1d2eb9bdff03e30Ea0'[39m,
+  token: [32m'0x2791bca1f2de4661ed88a30c99a7a9449aa84174'[39m,
+  amount: [32m'21000002'[39m,
+  dstChainId: [33m56[39m,
+  nonce: [33m1yarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+error
+[36m<ref *1>[39m Error: cannot estimate gas; transaction may fail or may require manual gas limit (error={"reason":"failed to meet quorum","code":"SERVER_ERROR","method":"estimateGas","params":{"transaction":{"from":"0x552008c0f6870c2f77e5cC1d2eb9bdff03e30Ea0","gasPrice":{"type":"BigNumber","hex":"0x06fc23ac00"},"to":"0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174","data":"0x095ea7b3000000000000000000000000a74d44ed9c3bb96d7676e7a274c33a05210cf35a0000000000000000000000000000000000000000000000000000000001312d02","type":0,"accessList"error
+[36m<ref *1>[39m Error: cannot estimate gas; transaction may fail or may require manual gas limit (error={"reason":"failed to meet quorum","code":"SERVER_ERROR","method":"estimateGas","params":{"transaction":{"from":"0x552008c0f6870c2f77e5cC1d2eb9bdff03e30Ea0","gasPrice":{"type":"BigNumber","hex":"0x06fc23ac00"},"to":"0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174","data":"0x095ea7b3000000000000000000000000a74d44ed9c3bb96d7676e7a274c33a05210cf35a0000000000000000000000000000000000000000000000000000000001312d02","type":0,"accessList":null}},"results":[{"weight":1,"start":1639736312875,"error":{"reason":"timeout","code":"TIMEOUT","requestBody":"{\"method\":\"eth_getBlockByNumber\",\"params\":[\"latest\",false],\"id\":58,\"jsonrpc\":\"2.0\"}","requestMethod":"POST","timeout":120000,"url":"https://polygon-rpc.com/"}}],"provider":{"_isProvider":true,"_events":[],"_emitted":{"block":-2},"formatter":{"formats":{"transaction":{},"transactionRequest":{},"receiptLog":{},"receipt":{},"block":{},"blockWithTransactions":{},"filter":{},"filterLog":{}}},"anyNetwork":false,"_networkPromise":{},"_maxInternalBlockNumber":22627672,"_lastBlockNumber":-2,"_pollingInterval":4000,"_fastQueryDate":1639736310609,"providerConfigs":[{"provider":{"_isProvider":true,"_events":[],"_emitted":{"block":-2},"formatter":{"formats":{"transaction":{},"transactionRequest":{},"receiptLog":{},"receipt":{},"block":{},"blockWithTransactions":{},"filter":{},"filterLog":{}}},"anyNetwork":false,"_networkPromise":{},"_maxInternalBlockNumber":22627672,"_lastBlockNumber":-2,"_pollingInterval":4000,"_fastQueryDate":1639736310609,"connection":{"url":"https://polygon-rpc.com/"},"_nextId":59,"_eventLoopCache":{"detectNetwork":null,"eth_chainId":null,"eth_blockNumber":null},"_network":{"name":"matic","chainId":137,"ensAddress":null,"_defaultProvider":null},"_internalBlockNumber":{},"_fastBlockNumber":22627672,"_fastBlockNumberPromise":{}},"weight":1,"stallTimeout":750,"priority":1}],"quorum":0.5,"_highestBlockNumber":22627672,"_network":{"name":"matic","chainId":137,"ensAddress":null,"_defaultProvider":null},"_internalBlockNumber":{},"_fastBlockNumber":22627672,"_fastBlockNumberPromise":{}}}, tx={"data":"0x095ea7b3000000000000000000000000a74d44ed9c3bb96d7676e7a274c33a05210cf35a0000000000000000000000000000000000000000000000000000000001312d02","to":{},"from":"0x552008c0f6870c2f77e5cC1d2eb9bdff03e30Ea0","gasPrice":{"type":"BigNumber","hex":"0x06fc23ac00"},"type":0,"nonce":{},"gasLimit":{},"chainId":{}}, code=UNPREDICTABLE_GAS_LIMIT, version=abstract-signer/5.5.0)
+    at Logger.makeError (/Volumes/WORK/Google/LiFinance/latest/lifi-contracts/node_modules/[4m@ethersproject[24m/logger/src.ts/index.ts:225:28)
+    at Logger.throwError (/Volumes/WORK/Google/LiFinance/latest/lifi-contracts/node_modules/[4m@ethersproject[24m/logger/src.ts/index.ts:237:20)
+    at /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/node_modules/[4m@ethersproject[24m/abstract-signer/src.ts/index.ts:301:31
+    at async Promise.all (index 6) {
+  reason: [32m'cannot estimate gas; transaction may fail or may require manual gas limit'[39m,
+  code: [32m'UNPREDICTABLE_GAS_LIMIT'[39m,
+  error: Error: failed to meet quorum (method="estimateGas", params={"transaction":{"from":"0x552008c0f6870c2f77e5cC1d2eb9bdff03e30Ea0","gasPrice":{"type":"BigNumber","hex":"0x06fc23ac00"},"to":"0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174","data":"0x095ea7b3000000000000000000000000a74d44ed9c3bb96d7676e7a274c33a05210cf35a000000000000000000000000000000000000000000000000000000000131"anyNetwork":false,"_networkPromise":{},"_maxInternalBlockNumber":22627672,"_lastBlockNumber":-2,"_pollingInterval":4000,"_fastQueryDate":1639736310609,"providerConfigs":[{"provider":{"_isProvider":true,"_events":[],"_emitted":{"block":-2},"formatter":{"formats":{"transaction":{},"transactionRequest":{},"receiptLog":{},"receipt":{},"block":{},"blockWithTransactions":{},"filter":{},"filterLog":{}}},"anyNetwork":false,"_networkPromise":{},"_maxInternalBlockNumber":22627672,"_lastBlockNumber":-2,"_pollingInterval":4000,"_fastQueryDate":163"anyNetwork":false,"_networkPromise":{},"_maxInternalBlockNumber":22627672,"_lastBlockNumber":-2,"_pollingInterval":4000,"_fastQueryDate":1639736310609,"providerConfigs":[{"provider":{"_isProvider":true,"_events":[],"_emitted":{"block":-2},"formatter":{"formats":{"transaction":{},"transactionRequest":{},"receiptLog":{},"receipt":{},"block":{},"blockWithTransactions":{},"filter":{},"filterLog":{}}},"anyNetwork":false,"_networkPromise":{},"_maxInternalBlockNumber":22627672,"_lastBlockNumber":-2,"_pollingInterval":4000,"_fastQueryDate":1639736310609,"connection":{"url":"https://polygon-rpc.com/"},"_nextId":59,"_eventLoopCache":{"detectNetwork":null,"eth_chainId":null,"eth_blockNumber":null},"_network":{"name":"matic","chainId":137,"ensAddress":null,"_defaultProvider":null},"_internalBlockNumber":{},"_fastBlockNumber":22627672,"_fastBlockNumberPromise":{}},"weight":1,"stallTimeout":750,"priority":1}],"quorum":0.5,"_highestBlockNumber":22627672,"_network":{"name":"matic","chainId":137,"ensAddress":null,"_defaultProvider":null},"_internalBlockNumber":{},"_fastBlockNumber":22627672,"_fastBlockNumberPromise":{}}, code=SERVER_ERROR, version=providers/5.5.0)
+      at Logger.makeError (/Volumes/WORK/Google/LiFinance/latest/lifi-contracts/node_modules/[4m@ethersproject[24m/logger/src.ts/index.ts:225:28)
+      at Logger.throwError (/Volumes/WORK/Google/LiFinance/latest/lifi-contracts/node_modules/[4m@ethersproject[24m/logger/src.ts/index.ts:237:20)
+      at FallbackProvider.<anonymous> (/Volumes/WORK/Google/LiFinance/latest/lifi-contracts/node_modules/[4m@ethersproject[24m/providers/src.ts/fallback-provider.ts:644:23)
+      at step (/Volumes/WORK/Google/LiFinance/latest/lifi-contracts/node_modules/[4m@ethersproject[24m/providers/lib/fallback-provider.js:48:23)
+      at Object.next (/Volumes/WORK/Google/LiFinance/latest/lifi-contracts/node_modules/[4m@ethersproject[24m/providers/lib/fallback-provider.js:29:53)
+      at fulfilled (/Volumes/WORK/Google/LiFinance/latest/lifi-contracts/node_modules/[4m@ethersproject[24m/providers/lib/fallback-provider.js:20:58) {
+    reason: [32m'failed to meet quorum'[39m,
+    code: [32m'SERVER_ERROR'[39m,
+    method: [32m'estimateGas'[39m,
+    params: { transaction: [36m[Object][39m },
+    results: [ [36m[Object][39m ],
+    provider: FallbackProvider {
+      _isProvider: [33mtrue[39m,
+      _events: [],
+      _emitted: [36m[Object][39m,
+      formatter: [36m[Formatter][39m,
+      anyNetwork: [33mfalse[39m,
+      _networkPromise: [36m[Promise][39m,
+      _maxInternalBlockNumber: [33m22627672[39m,
+      _lastBlockNumber: [33m-2[39m,
+      _pollingInterval: [33m4000[39m,
+      _fastQueryDate: [33m1639736310609[39m,
+      providerConfigs: [36m[Array][39m,
+      quorum: [33m0.5[39m,
+      _highestBlockNumber: [33m22627672[39m,
+      _network: [36m[Object][39m,
+      _internalBlockNumber: [36m[Promise][39m,
+      _fastBlockNumber: [33m22627672[39m,
+      _fastBlockNumberPromise: [36m[Promise][39m
+    }
+  },
+  tx: {
+    data: [32m'0x095ea7b3000000000000000000000000a74d44ed9c3bb96d7676e7a274c33a05210cf35a0000000000000000000000000000000000000000000000000000000001312d02'[39m,
+    to: Promise { [32m'0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174'[39m },
+    from: [32m'0x552008c0f6870c2f77e5cC1d2eb9bdff03e30Ea0'[39m,
+    gasPrice: BigNumber { _hex: [32m'0x06fc23ac00'[39m, _isBigNumber: [33mtrue[39m },
+    type: [33m0[39m,
+    nonce: Promise { [33m746[39m },
+    gasLimit: Promise { e 1.
+[2K[1G[34minfo[39m Visit [1mhttps://yarnpkg.com/en/docs/cli/run[22m for documentation about this command.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;31m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[?1l>[?2004l
+]2;yarn execute polygon ]1;yarn[2K[1G[1myarn run v1.22.15[22m
+[2K[1G[2m$ node ./_scripts.js run polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[22m
+ADDRESS 0xa74D44ed9C3BB96d7676E7A274c33A05210cf35a
+{
+  receiver: [32m'0x552008c0f6870c2f77e5cC1d2eb9bdff03e30Ea0'[39m,
+  token: [32m'0x2791bca1f2de4661ed88a30c99a7a9449aa84174'[39m,
+  amount: [32m'20000002'[39m,
+  dstChainId: [33m56[39m,
+  nonce: [33m1639736440[39m,
+  maxSlippage: [33m100000[39m
+}
+Success
+[2K[1G✨  Done in 15.32s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyyarn[?1l>[?2004l
+]2;yarn]1;yarn[2K[1G[1myarn install v1.22.15[22m
+[2K[1G[2m[1/5][22m 🔍  Validating package.json...
+[2K[1G[2m[2/5][22m 🔍  Resolving packages...
+[1G⠁ [0K[2K[1G[2K[1G[32msuccess[39m Already up-to-date.
+[2K[1G[2m$ patch-package[22m
+[1mpatch-package[22m 6.4.7
+Applying patches...
+[94mNo patch files found[39m
+[2K[1G[2m$ node ./.setup.js && hardhat typechain[22m
+Compiling 32 files with 0.8.7
+[31mDeclarationError: Undeclared identifier.[39m
+[31m   --> src/Facets/NXTPFacet.sol:137:14:[39m
+[31m    |[39m
+[31m137 |         emit LiFiTransferCompleted(_lifiData.transactionId, assetId, receiver, amount, block.timestamp);[39m
+[31m    |              ^^^^^^^^^^^^^^^^^^^^^[39m
+[31m[39m
+[31m[39m
+[31mDeclarationError: Undeclared identifier.[39m
+[31m   --> src/Facets/NXTPFacet.sol:170:14:[39m
+[31m    |[39m
+[31m170 |         emit LiFiTransferCompleted(_lifiData.transactionId, finalAssetId, receiver, finalBalance, block.timestamp);[39m
+[31m    |              ^^^^^^^^^^^^^^^^^^^^^[39m
+[31m[39m
+[31m[39m
+[31mError HH600: Compilation failed[39m
+
+For more info go to https://hardhat.org/HH600 or run Hardhat with --show-stack-traces
+[2K[1G[31merror[39m Command failed with exit code 1.
+[2K[1G[34minfo[39m Visit [1mhttps://yarnpkg.com/en/docs/cli/install[22m for documentation about this command.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;31m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;31m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hyarn execute polygon /Volumes/WORK/Google/LiFinance/latest/lifi-contracts/scripts/demoCBridge.ts[91D                                                                                           [92D[?1l>[?2004l
+]2;yarn]1;yarn[2K[1G[1myarn install v1.22.15[22m
+[2K[1G[2m[1/5][22m 🔍  Validating package.json...
+[2K[1G[2m[2/5][22m 🔍  Resolving packages...
+[1G⠁ [0K[2K[1G[2K[1G[32msuccess[39m Already up-to-date.
+[2K[1G[2m$ patch-package[22m
+[1mpatch-package[22m 6.4.7
+Applying patches...
+[94mNo patch files found[39m
+[2K[1G[2m$ node ./.setup.js && hardhat typechain[22m
+Compiling 32 files with 0.8.7
+Generating typings for: 32 artifacts in dir: typechain for target: ethers-v5
+Successfully generated 77 typings!
+Compilation finished successfully
+[2K[1G✨  Done in 34.24s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004hly generated 77 typings!
+Compilation finished successfully
+[2K[1G✨  Done in 34.24s.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                         ]2;navi@Navis-iMac-Pro:/Volumes/WORK/Google/LiFinance/latest/lifi-contracts]1;..ifi-contracts[0m[27m[24m[J[01;32m➜  [36mlifi-contracts[00m [01;34mgit:([31mLF-77-cbridge-v2[34m) [33m✗[00m [K[?1h=[?2004h
